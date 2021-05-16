@@ -246,10 +246,11 @@ GRANT ALL PRIVILEGES TO DevSecOpsTeam WITH ADMIN OPTION;
 ```
 GRANT DevT to dev1, dev2;
 ```
-```
+
 ```
 GRANT TestT to tester1, tester2;
 ```
+
 ```
 GRANT DevSecOpsTeam to devsecops1, devsecops2;
 ```
